@@ -124,7 +124,7 @@ h1 {
   word-wrap: break-word;
   word-break: break-word;
   white-space: normal;
-  width: 100%;
+  width: 90%;
 }
 .extraText.dragging {
   opacity: 0.5;
